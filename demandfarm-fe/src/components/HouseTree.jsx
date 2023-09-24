@@ -69,7 +69,7 @@ const TreeComponent = ({ houseMembers, setHouseMembers, houseName }) => {
             key={houseMembers.name}
             style={{
               width: "100vw",
-              height: "40vh",
+              height: "80vh",
             }}
             xs={12}
             md={8}
